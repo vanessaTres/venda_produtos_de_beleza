@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
+
+
+body{
+    background-color: rgb(255, 255, 231);
+}
+
+#tituloPrincipal{
+    font-family:'Bonheur+Royale' ;
+}
+
+#topo {
+    border-bottom:1px solid black;
+    margin: none;
+
+}
